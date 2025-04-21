@@ -1,1 +1,1 @@
-All kinds of patterns question is solved here 
+Data structure and algorithm questions solution
